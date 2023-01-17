@@ -1,1 +1,2 @@
-# 2048 - sample kubernetes app
+# 2048 - sample app for testing
+# kubernetes manifest files
